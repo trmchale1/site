@@ -1,0 +1,25 @@
+{
+  "name": "noname",
+  "version": "0.0.1",
+  "description": "noname",
+  "main": "server.js",
+  "scripts": {
+    "test": "x",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "x"
+  ],
+  "author": "x",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "video.js": "^5.11.7"
+  }
+}
